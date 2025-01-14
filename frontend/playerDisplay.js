@@ -192,7 +192,7 @@ function achievementCard(data){
 function labelCard(data){
 
 
-    labelCardHtml+=`<div class="card-content">
+    labelCardHtml=`<div class="card-content">
                                 <div class="content-info">
                                      ${labelimageProcess(data)}  
                                     </div>  
