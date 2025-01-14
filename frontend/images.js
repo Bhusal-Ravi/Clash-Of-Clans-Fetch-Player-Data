@@ -20,6 +20,7 @@ export function leagueimageProcess(data){
 }
 let labelhtml=''
 export function labelimageProcess(data){
+     labelhtml=''
     if(!data || !data.labels){
         return 'No Labels Selected'
     }else{
