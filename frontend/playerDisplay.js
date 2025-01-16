@@ -167,6 +167,7 @@ return leagueCardHtml
 
 function achievementCard(data){
     const achievementsAll=data.achievements
+             achievementCardHtml='';
 
     achievementsAll.forEach((achievement,index)=>{
         achievementCardHtml+=`<div class="card-content">
