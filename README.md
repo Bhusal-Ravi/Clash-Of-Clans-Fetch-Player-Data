@@ -54,14 +54,6 @@ Display Stats: All available player information is displayed on the website in a
 
 Follow these steps to set up the project locally:
 
-Clone the Repository:
-
-git clone git@github.com:Bhusal-Ravi/Clash-Of-Clans-Vercel-App.git
-
-Navigate to the Project Directory:
-
-cd Clash-Of-Clans-Vercel-App
-
 
 API Setup:
 
